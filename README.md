@@ -16,14 +16,15 @@ The repo contains the solution to the problem given for the interview.
   3. Calculate cross entropy loss
   4. Continue from step 1, if validation loss is decreasing
   5. Convergence - Termination
-
-|--------------------------|----------------------|
-|**Model  Architecture**   | Resnet18             |
-|**Framework**             | PyTorch              |
-|**Trainable Parameters**  | 11 Million           |
-|**Batch Size**            | 128                  |
-|**Number of epochs**      | 100                  |
-|**Online Augmentations**  | Yes                  |
+  
+|                          |            |          
+|--------------------------|------------|
+|**Model  Architecture**   | Resnet18   |
+|**Framework**             | PyTorch    |
+|**Trainable Parameters**  | 11 Million |
+|**Batch Size**            | 128        |
+|**Number of epochs**      | 100        |
+|**Online Augmentations**  | Yes        |
 
 **Output** : Two models , one for mask/nomask classification and another for helmet/nohelmet classification
 [Trained Models --> Link!](https://drive.google.com/open?id=1tk-lnsovJGBLGTlYRxLIMFtKAoB6NiVD)
