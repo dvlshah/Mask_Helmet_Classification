@@ -51,10 +51,11 @@ I chose calculate top1 accuracy metric as it is intuitive for analysis of classi
 
 `python3 validate.py DATA_PATH --model resnet18 --checkpoint MODEL_PATH`
 
-
 ## Results
 
 |      |Validation| Test  |
 |------|----------|-------|
 |Mask  |    94.4  |  93.7 |
 |Helmet|    94    |  85.6 |
+
+The results for above model for validation and test sets can be found at this --> [link!](https://drive.google.com/open?id=1CvlAL7A8ihzesiWaig6LnArqV9B3Kf8v)
