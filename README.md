@@ -52,6 +52,4 @@ I chose calculate top1 accuracy metric as it is intuitive for analysis of classi
 |      |Validation| Test  |
 |------|----------|-------|
 |Mask  |    94.4  |  93.7 |
-|-------------------------|
 |Helmet|    94    |  85.6 |
-|-------------------------|
