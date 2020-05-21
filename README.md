@@ -13,7 +13,7 @@ The repo contains the solution to the problem given for the interview.
 ## Training      
 
 * Training procedure followed for **Mask/NoMask** and **Helmet/NoHelmet** classification training
-
+<br />
   1. Load face crops in dataloader
   2. Forward pass on the model
   3. Calculate cross entropy loss
@@ -29,7 +29,7 @@ The repo contains the solution to the problem given for the interview.
 |**Number of epochs**      | 100        |
 |**Online Augmentations**  | Yes        |
 
-**Output** : Two models , one for mask/nomask classification and another for helmet/nohelmet classification
+**Output** : Two models , one for mask/nomask classification and another for helmet/nohelmet classification<br />
 Trained Models --> [Link](https://drive.google.com/open?id=1tk-lnsovJGBLGTlYRxLIMFtKAoB6NiVD)
 
 **Note** I used an open source framework written in PyTorch by Ross Wightman for training these models.
