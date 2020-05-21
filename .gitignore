@@ -1,0 +1,10 @@
+trained_model/
+*zip
+*csv
+*pdf
+*jpg
+*png
+*pyc
+*txt
+*tar
+*pth
