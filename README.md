@@ -30,7 +30,7 @@ The repo contains the solution to the problem given for the interview.
 |**Online Augmentations**  | Yes        |
 
 **Output** : Two models , one for mask/nomask classification and another for helmet/nohelmet classification
-[Trained Models --> Link!](https://drive.google.com/open?id=1tk-lnsovJGBLGTlYRxLIMFtKAoB6NiVD)
+Trained Models --> [Link](https://drive.google.com/open?id=1tk-lnsovJGBLGTlYRxLIMFtKAoB6NiVD)
 
 **Note** I used an open source framework written in PyTorch by Ross Wightman for training these models.
 
@@ -58,4 +58,4 @@ I chose calculate top1 accuracy metric as it is intuitive for analysis of classi
 |Mask  |    94.4  |  93.7 |
 |Helmet|    94    |  85.6 |
 
-The results for above model for validation and test sets can be found at this --> [link!](https://drive.google.com/open?id=1CvlAL7A8ihzesiWaig6LnArqV9B3Kf8v)
+The results for above model for validation and test sets can be found at this [Link](https://drive.google.com/open?id=1CvlAL7A8ihzesiWaig6LnArqV9B3Kf8v)
