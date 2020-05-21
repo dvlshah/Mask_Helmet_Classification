@@ -6,7 +6,7 @@ The repo contains the solution to the problem given for the interview.
 * Crops of faces were used as the input for training.
 * The data collected from internet sources was used for training/validation as 90-10 split.
 * The data provided was used as unseen testing data.
-* Data preprocessing :- <\br >
+* Data preprocessing :- <br \>
   1. Resize to 224x224
   2. Mean Normalization
 
